@@ -1,6 +1,7 @@
 # Speed-Controlling-of-Motor
 
 OBJECTIVE: To use PWM signal generated with 555 timer IC to control a Motor using L298N motor driver.
+
 ABSTRACT: The aim of development of this project is towards providing efficient and simple method for control speed of DC motor using pulse width modulation technique.
 There are several methods for controlling the speed of DC motors. One simple method is to add series resistance using a rheostat as considerable power is consumed in the rheostat, this method is not economical. Another method is to use a series switch that can be closed or opened rapidly. This type of control is termed as chopper control. The PWM based chopper circuit smoothly controls the speed of general purpose DC motors.
 
